@@ -14,7 +14,16 @@ h2{
   letter-spacing:2px;
   text-shadow:3px 3px 0 rgba(0,0,0,0.1);
 }
-
+p{
+  padding: 15px 0;
+}
+a{
+  text-decoration:none;
+  background-color:yellow;
+  padding: 10px;
+  color:black;
+  border-radius: 4px;
+}
 .small-container ul{
   list-style: none;
 }
@@ -25,17 +34,6 @@ h2{
 .small-container ul li:last-child{
   border-bottom:0;
 }
-a{
-  text-decoration:none;
-  background-color:yellow;
-  padding: 10px;
-  color:black;
-  border-radius: 4px;
-}
-p{
-  padding: 15px 0;
-}
-
 .kaina{
   font-size:50px;
   font-family: serif;
